@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/button2.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/container_components.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/ic_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/ic_eye.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/layout/activity_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/887686/Desktop/projetointegrador/app/src/main/res/layout/activity_splash.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/887686/projetointegrador/app/src/main/res/drawable/container_components.xml" value="0.1185" />
+        <entry key="..\:/Users/887686/projetointegrador/app/src/main/res/drawable/edit_text.xml" value="0.1" />
+        <entry key="..\:/Users/887686/projetointegrador/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1" />
+        <entry key="..\:/Users/887686/projetointegrador/app/src/main/res/layout/activity_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/887686/projetointegrador/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/887686/projetointegrador/app/src/main/res/layout/activity_splash.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

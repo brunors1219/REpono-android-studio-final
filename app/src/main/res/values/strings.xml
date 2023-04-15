@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Repono</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="txt_tela_login">Já tenho acesso</string>
+    <string name="txt_tela_cadasrtro">Não tenho conta? Cadastre-se</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Não tem cadastro? Clique aqui!</string>
+    <string name="txt_tela_inicial">Pular</string>
+    <string name="txt_carrinho">Meu Carrinho</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

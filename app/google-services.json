@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491588541275",
+    "project_id": "repono-676f2",
+    "storage_bucket": "repono-676f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491588541275:android:fe22cdf1b30087f4ddd87e",
+        "android_client_info": {
+          "package_name": "com.minhaempresa.projetointegrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491588541275-kldr984hpk5bp9ln0ojrildi3fee3rb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZC0G9fYkURKSZK-aLWX7fjbkYn6SUh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491588541275-kldr984hpk5bp9ln0ojrildi3fee3rb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
